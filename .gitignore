@@ -208,3 +208,6 @@ __marimo__/
 
 # Ignore saved game files
 saves/*.json
+.vscode/*
+speicherstaende/*.json
+sprint_03/saves/*.json
